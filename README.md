@@ -5,6 +5,6 @@
     <p>oh and i like other stuff too, pls read my <em>rentry</em> for more on that!!!</p>
     <p><img src="https://i.imgur.com/z6NVmrq.gif"> <img src="https://i.imgur.com/Y0f9763.png"> <img src="https://i.imgur.com/RkR5f0P.png"> <--- favorites :-3 </p>
     <p> <em>sign my guestbook!!! please!!! it makes me very VERY happy!!!</em></p>
-    ![Recently played](https://spotify-recently-played-readme.vercel.app/api?user=eo6nr9n6ycnubtg7i289s5s9q&count={1})
+    
   </body>
 </html>
