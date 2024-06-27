@@ -7,6 +7,6 @@
     <p> <em>sign my <strong>atabook</strong> or retrospring!!! please!!! it makes me very VERY happy!!!</em> </p>
     <p><img src="https://blushift.carrd.co/assets/images/image11.gif?v=d481afd2"><img src="https://blushift.carrd.co/assets/images/image09.gif?v=d481afd2"><img src="https://64.media.tumblr.com/4c7d7032d427ca315ba90c07567cefdb/2b80d83d0c3ad8f4-73/s250x400/b523ef21c5c82c13f6a722daab72757f63f972e4.gifv"></p>
     <p>im usually in <em>these</em> skins, around <strong>docks, spawn, & the hlvrai/tf2 area!</strong></p>
-   
+    <p>also, <strong>send me doodles on <a href="https://lucent.straw.page/">strawpage!</a></strong></p>
   </body>
 </html>
