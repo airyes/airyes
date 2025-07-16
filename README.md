@@ -5,7 +5,7 @@
     <p>oh and i like other stuff too, pls read my <em>rentry</em> for more on that!!!</p>
     <p><img src="https://i.imgur.com/oz4nTvG.gif"> <img src="https://i.imgur.com/izUKMe5.png"> <img src="https://i.imgur.com/j5Hy2cs.png"> <--- favorites :-3 </p>
     <p> <em>sign my <strong>atabook</strong> or strawpage!!! please!!! it makes me very VERY happy!!!</em> </p>
-    <p><img src="https://blushift.carrd.co/assets/images/image10.gif?v=f13751a3"><img src="https://blushift.carrd.co/assets/images/image09.gif?v=f13751a3"><img src="https://i.imgur.com/oexmqYN.gif"></p>
+    <p><img src="https://blushift.carrd.co/assets/images/image10.gif?v=f13751a3"><img src="https://i.imgur.com/BOyag2E.gif"><img src="https://i.imgur.com/oexmqYN.gif"></p>
     <p>im usually in <em>these</em> skins, around <strong>docks, the valve game area, & spawn!</strong></p>
   </body>
 </html>
