@@ -1,6 +1,6 @@
 <html>
   <body>
-    <p><strong>hi!</strong> my name is airy/ulysses :-) i use <em>any and only neopronouns,</em> and <em>it/its!</em> </p>
+    <p><strong>hi!</strong> my name is kate/ulysses :-) i use <em>any and only neopronouns,</em> and <em>it/its!</em> </p>
     <p>i really love <strong>video games!!!</strong> rn im mainly obsessed with <strong>hotline miami, outlast,</strong> and <strong>fallout!</strong></p>
     <p>oh and i like other stuff too, pls read my <em>rentry</em> for more on that!!!</p>
     <p><img src="https://i.imgur.com/oz4nTvG.gif"> <img src="https://i.imgur.com/LlDPRcv.png"> <img src="https://i.imgur.com/j5Hy2cs.png"> <--- favorites :-3 </p>
